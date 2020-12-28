@@ -1,0 +1,11 @@
+P:\dotnet\CPU-Gadget\CPU-Gadget\bin\x64\Release\CPU-Gadget.exe.config
+P:\dotnet\CPU-Gadget\CPU-Gadget\bin\x64\Release\CPU-Gadget.exe
+P:\dotnet\CPU-Gadget\CPU-Gadget\bin\x64\Release\CPU-Gadget.pdb
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU_Gadget.Form1.resources
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU_Gadget.frmOptions.resources
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU_Gadget.Properties.Resources.resources
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU-Gadget.csproj.GenerateResource.cache
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU-Gadget.csproj.CoreCompileInputs.cache
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU-Gadget.exe
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU-Gadget.pdb
+P:\dotnet\CPU-Gadget\CPU-Gadget\obj\x64\Release\CPU-Gadget.csprojAssemblyReference.cache

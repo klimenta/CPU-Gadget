@@ -348,7 +348,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmOptions";
-            this.Text = "Options";
+            this.Text = "Options - v0.0.1";
             this.Load += new System.EventHandler(this.frmOptions_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
